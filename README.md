@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**steveoni/steveoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 My name is Stephen Oni. I'm a Software engineer and Machine learning Engineer/Data Scientist. A design Fanatic. I combine my knowledge of Design interface, Software engineer / Data science in building data-driven products and tools for developers. Less I forget, I studied Physics 🤭
 
 - 🔭 I’m currently working on [Danfojs](https://github.com/opensource9ja/danfojs).An open-source, JavaScript library providing high-performance, intuitive, and easy-to-use data structures for manipulating and processing structured data.
