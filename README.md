@@ -2,6 +2,8 @@
 
 My name is Stephen Oni. I'm a Software engineer and Machine learning Engineer/Data Scientist. A design Fanatic. I combine my knowledge of Design interface, Software engineer / Data science in building data-driven products and tools for developers. Less I forget, I studied Physics 🤭
 
+I write in **Javascript** and **Python**
+
 - 🔭 I’m currently working on [Danfojs](https://github.com/opensource9ja/danfojs).An open-source, JavaScript library providing high-performance, intuitive, and easy-to-use data structures for manipulating and processing structured data.
 - 🌱 I’m currently learning TFX, Kubeflow, Kubernetics
 - 👯 I’m looking to collaborate on open source tools for data science and machine learning.
